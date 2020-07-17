@@ -1,4 +1,4 @@
 Since the datsasets are too large(> 25mb), I could not upload them here. But am providing the google drive link where the dataset is available.
 1) SFrame dataset- https://drive.google.com/file/d/1IDMsUEND9cQa2WEXHMyHeBtBAYIlw42C/view?usp=sharing
 2) CSV dataset- https://drive.google.com/file/d/1PnIVVOA_Wiiszrqf-4eo7ecEvE3QB-Yx/view?usp=sharing
-Keep the datasets in same folder as the python files.
+Keep the datasets in the same folder as the python files.
